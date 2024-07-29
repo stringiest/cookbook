@@ -1,0 +1,25 @@
+- What tags do you need?
+	- meal
+	- cooking method
+	- source?
+- How do you set up the yaml front-matter?
+- Where does the ingredients database sit?
+- Should the recipes themselves be in a separate folder? Or do you use some kind of key-value in the yaml front-matter to indicate whether a file is a recipe or an ingredients list?
+- Sync to GitHub
+- Create recipe template once you've worked it out
+- Find a diagramming plug-in & plan out your tables/connections
+- Recipe elements
+	- Ingredients
+	- Method
+	- Cooking appliance
+	- Servings/portions
+	- Prep time
+	- Cooking time
+	- Recipe source
+	- Meal
+- Long term goal - add nutrition information for each ingredient
+- Tris notes
+	- Use properties view to check yaml formatting
+	- Rethink how to store ingredients in recipes, so that they are in valid yaml
+	- can use links inside yaml. Need to put quote marks around the double square brackets or use properties view
+	- Look at a plug-in called projects

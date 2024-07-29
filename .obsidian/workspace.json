@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "1ccb93c2992feef0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ec63145440545bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b673059becef1791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "176f60caed3a4c39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Set-up notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7522276bb2509e08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recipes/Breakfast Ice Cream 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d850fde16a726b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ingredients/Pecans.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93fdf208a866e6c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe Index.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "efb673c9b607e955",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "954c1e723bdc3801",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e82350a1ce99d87",
+    "type": "split",
+    "children": [
+      {
+        "id": "56545eb4c2b77ed1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17910641924865db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b86e79c5cc9520e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "461a1db9c44501f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e45c6df4e7472ab7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b12c2f873f98201",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93a53736584efa67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "recipes/Breakfast Ice Cream 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d09f79219e5071ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "recipes/Breakfast Ice Cream 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2900a2e4e5432f32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f158730a6cad239b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "recipes/Breakfast Ice Cream 2.md"
+              }
+            }
+          },
+          {
+            "id": "c3b5874bc68f09f5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "7522276bb2509e08",
+  "lastOpenFiles": [
+    "recipes/Breakfast Ice Cream 3.md",
+    "recipes/Breakfast Ice Cream.md",
+    "recipes/Breakfast Ice Cream 1.md",
+    "recipes/Breakfast Ice Cream 2.md",
+    "ingredients/Frozen blueberries.md",
+    "ingredients/Almond butter.md",
+    "ingredients/Greek yoghurt.md",
+    "Recipe Index.md",
+    "recipes/No-spike Granola.md",
+    "recipes/Rush-hour Egg Cups.md",
+    "ingredients/Pecans.md",
+    "Set-up notes.md",
+    "ingredients/Pumpkin seeds.md",
+    "Recipe template option.md",
+    "Ingredient template option.md",
+    "ingredients/Almonds.md",
+    "ingredients/Coconut oil.md",
+    "ingredients/Eggs.md",
+    "ingredients",
+    "recipes",
+    "templates",
+    "Untitled.canvas",
+    "Welcome.md"
+  ]
+}
